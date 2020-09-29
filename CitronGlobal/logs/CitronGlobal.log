@@ -1,0 +1,8 @@
+2019-12-08 00:04:23 INFO  base:25 - Config property file is loaded
+2019-12-08 00:04:32 INFO  base:32 - Chrome driver instance is created and browser is launched
+2019-12-08 00:04:32 INFO  base:34 - Waiting for page load
+2019-12-08 00:04:36 INFO  base:36 - Window maximized
+2019-12-08 00:04:53 DEBUG base:20 - Entered URL from property file
+2019-12-08 00:04:53 DEBUG base:22 - Username entered
+2019-12-08 00:04:53 DEBUG base:24 - password entered
+2019-12-08 00:05:07 DEBUG base:26 - Signin button clicked
